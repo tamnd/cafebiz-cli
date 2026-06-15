@@ -1,0 +1,10 @@
+title       = "cafebiz"
+baseURL     = "https://cafebiz-cli.tamnd.com/"
+description = "A command line for cafebiz."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cafebiz-cli"
